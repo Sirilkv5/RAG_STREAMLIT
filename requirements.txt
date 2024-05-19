@@ -1,0 +1,6 @@
+streamlit
+#ragstack-ai
+python-dotenv
+pandas
+datasets
+#localtunnel
